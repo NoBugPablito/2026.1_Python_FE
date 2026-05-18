@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+*_ENV/
+churn_bank_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
